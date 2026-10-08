@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "supplier_name": "Edi Jaya",
+        "date": "2026-08-24",
+        "memo": "-",
+        "surat_jalan": "921360123",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 14825000,
+        "status": "BELUM LUNAS"
+    },
+    {
+        "id": 2,
+        "supplier_name": "Glory Jaya",
+        "date": "2026-08-20",
+        "memo": "-",
+        "surat_jalan": "24212",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 11374000,
+        "status": "LUNAS"
+    },
+    {
+        "id": 3,
+        "supplier_name": "Karina Bulan",
+        "date": "2026-08-24",
+        "memo": "-",
+        "surat_jalan": "65664123",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 6035000,
+        "status": "BELUM LUNAS"
+    },
+    {
+        "id": 4,
+        "supplier_name": "Kevin Sumber Air",
+        "date": "2026-08-24",
+        "memo": "-",
+        "surat_jalan": "50976123",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 14045000,
+        "status": "BELUM LUNAS"
+    },
+    {
+        "id": 5,
+        "supplier_name": "Neglasari",
+        "date": "2026-08-24",
+        "memo": "-",
+        "surat_jalan": "82599123",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 6119000,
+        "status": "BELUM LUNAS"
+    },
+    {
+        "id": 6,
+        "supplier_name": "Neglasari",
+        "date": "2026-08-24",
+        "memo": "-",
+        "surat_jalan": "31-8-26",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 13596900,
+        "status": "BELUM LUNAS"
+    },
+    {
+        "id": 7,
+        "supplier_name": "Glory Jaya",
+        "date": "2026-08-29",
+        "memo": "Barang Masuk",
+        "surat_jalan": "756173",
+        "supir": "",
+        "faktur_jual": "",
+        "hutang": 30940,
+        "status": "BELUM LUNAS"
+    }
+]

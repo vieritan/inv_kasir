@@ -1,0 +1,367 @@
+/* assets/css/style.css - Desktop Classic Desktop Style Matching Screenshots */
+
+:root {
+    --sidebar-bg: #006600;          /* Dark Green matching screenshot */
+    --sidebar-hover: #004d00;
+    --highlight-green: var(--sidebar-bg); /* Follow menu color */
+    --highlight-yellow: #ffff00;     /* Yellow summary highlight */
+    --border-dark: #888888;
+    --text-color: #000000;
+    --bg-page: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: var(--bg-page);
+    color: var(--text-color);
+    min-height: 100vh;
+    font-size: 14px;
+}
+
+.app-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Sidebar Styling */
+.sidebar {
+    width: 220px;
+    background-color: #ffffff;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    shrink: 0;
+    border-right: 1px solid #ccc;
+}
+
+.menu-group {
+    background-color: var(--sidebar-bg);
+    border: 1px solid #004d00;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    display: block;
+    background-color: var(--sidebar-bg);
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 6px 10px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #008000;
+    transition: background 0.15s ease;
+}
+
+.menu-item:last-child {
+    border-bottom: none;
+}
+
+.menu-item:hover, .menu-item.active {
+    background-color: #004d00;
+    color: #ffffff;
+}
+
+/* Main Content */
+.main-content {
+    flex-grow: 1;
+    padding: 15px 25px;
+    overflow-y: auto;
+}
+
+.page-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #000;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* Filter Forms & Controls */
+.filter-card {
+    margin-bottom: 15px;
+}
+
+.filter-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+}
+
+label {
+    font-size: 0.95rem;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"],
+input[type="password"],
+select,
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.85rem;
+    padding: 3px 6px;
+    border: 1px solid #767676;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+button, .btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    background: #e1e1e1;
+    border: 1px solid #767676;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+}
+
+button:hover, .btn:hover {
+    background: #d4d4d4;
+}
+
+.btn-toggle.active {
+    background: #006600 !important;
+    color: #ffffff !important;
+    border-color: #004d00 !important;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.3);
+}
+
+/* Classic Tables */
+.table-responsive {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.data-table th, .data-table td, .data-table td a {
+    padding: 4px 8px;
+    text-align: left;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-weight: normal !important;
+}
+
+.data-table th {
+    font-weight: bold !important;
+    color: #000;
+}
+
+/* Row Highlights */
+tr.row-green {
+    background-color: var(--highlight-green) !important;
+    color: #ffffff;
+}
+
+tr.summary-bar {
+    background-color: var(--highlight-yellow) !important;
+    font-weight: bold;
+}
+
+tr.summary-bar td {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+/* Form Item Grid in Buat Faktur */
+.item-grid-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.item-grid-table td {
+    padding: 3px 6px;
+    vertical-align: middle;
+}
+
+.item-grid-table tr.row-green-bg {
+    background-color: var(--highlight-green);
+    color: #ffffff;
+}
+
+/* Badges */
+.badge {
+    padding: 2px 5px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    border-radius: 2px;
+}
+.badge-danger { background: #ffcccc; color: #cc0000; }
+.badge-success { background: #ccffcc; color: #006600; }
+
+/* Action Buttons in Daftar Faktur */
+.btn-action-cetak {
+    display: inline-block;
+    padding: 3px 9px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #006600;
+    color: #ffffff;
+    border: 1px solid #004d00;
+    border-radius: 3px;
+    margin: 0 2px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+    line-height: 1.3;
+}
+
+.btn-action-cetak:hover {
+    background-color: #004d00;
+    color: #ffffff;
+}
+
+.btn-action-retur {
+    display: inline-block;
+    padding: 3px 9px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #dc3545;
+    color: #ffffff;
+    border: 1px solid #bd2130;
+    border-radius: 3px;
+    margin: 0 2px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+    line-height: 1.3;
+}
+
+.btn-action-retur:hover {
+    background-color: #bd2130;
+    color: #ffffff;
+}
+
+.btn-action-retur.active-retur {
+    background-color: #6c757d;
+    border-color: #545b62;
+}
+
+/* Print Layout Optimization */
+@media print {
+    .sidebar, .btn-no-print, #top-progress-bar, #global-loading-overlay {
+        display: none !important;
+    }
+    .main-content {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}
+
+/* Loading State UI Components */
+#top-progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 4px;
+    width: 0%;
+    background: linear-gradient(90deg, #006600, #00ff66, #ffcc00);
+    z-index: 99999;
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
+    box-shadow: 0 0 10px rgba(0, 255, 102, 0.8);
+}
+
+#global-loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 99998;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+#global-loading-overlay.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.loading-spinner-box {
+    background: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    border: 1px solid #e1e1e1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.loading-spinner {
+    width: 42px;
+    height: 42px;
+    border: 4px solid #e1e1e1;
+    border-top: 4px solid #006600;
+    border-right: 4px solid #00ff66;
+    border-radius: 50%;
+    animation: spin-loader 0.75s linear infinite;
+}
+
+.loading-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #004d00;
+}
+
+@keyframes spin-loader {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Button Loading State */
+button.btn-loading, .btn.btn-loading {
+    position: relative;
+    pointer-events: none;
+    opacity: 0.8;
+    padding-left: 28px !important;
+}
+
+button.btn-loading::before, .btn.btn-loading::before {
+    content: "";
+    position: absolute;
+    left: 8px;
+    top: calc(50% - 6px);
+    width: 12px;
+    height: 12px;
+    border: 2px solid #333;
+    border-top: 2px solid transparent;
+    border-radius: 50%;
+    animation: spin-loader 0.6s linear infinite;
+}
+

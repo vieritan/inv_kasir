@@ -1,0 +1,22 @@
+# .htaccess - Hostinger Apache / LiteSpeed Configuration for Inventory 3
+
+DirectoryIndex index.php
+AddDefaultCharset UTF-8
+
+# Protect data folder JSON files from direct browser access
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Protect data folder JSON files from direct browser access
+    RewriteRule ^data/.*\.json$ - [F,L]
+    RewriteRule ^config/.*\.sql$ - [F,L]
+
+    # Redirect .php to extensionless (only for GET requests to prevent breaking forms)
+    RewriteCond %{REQUEST_METHOD} !POST
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.php\ HTTP
+    RewriteRule ^([^.]+)\.php$ /$1 [R=301,L]
+
+    # Remove .php extension requirement
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^(.*)$ $1.php [NC,L]
+</IfModule>

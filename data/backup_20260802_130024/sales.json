@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "code": "00000001",
+        "name": "Office",
+        "buyer_count": 875,
+        "debt": 4960000,
+        "limit_amount": 500000000,
+        "due_days": 0,
+        "phone": null
+    },
+    {
+        "id": 2,
+        "code": "00000002",
+        "name": "Budi Santoso",
+        "buyer_count": 120,
+        "debt": 1200000,
+        "limit_amount": 100000000,
+        "due_days": 7,
+        "phone": null
+    },
+    {
+        "id": 3,
+        "code": "00000003",
+        "name": "Ahmad Supardi",
+        "buyer_count": 45,
+        "debt": 750000,
+        "limit_amount": 50000000,
+        "due_days": 14,
+        "phone": null
+    },
+    {
+        "id": 4,
+        "code": "00000004",
+        "name": "Burhan",
+        "buyer_count": 0,
+        "debt": 0,
+        "limit_amount": 100000000,
+        "due_days": 0,
+        "phone": null
+    },
+    {
+        "id": 5,
+        "code": "00000005",
+        "name": "Abc",
+        "buyer_count": 0,
+        "debt": 0,
+        "limit_amount": 100000000,
+        "due_days": 0,
+        "phone": null
+    },
+    {
+        "id": 6,
+        "code": "00000006",
+        "name": "kiko",
+        "buyer_count": 0,
+        "debt": 0,
+        "limit_amount": 100000000,
+        "due_days": 0,
+        "phone": null
+    }
+]

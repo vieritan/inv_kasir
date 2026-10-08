@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "code": "CUST-001",
+        "name": "1 thr \/ paskem",
+        "address": "Jl. Pasarkemis No. 12",
+        "phone": "8123456789",
+        "ktp": "3603001234567890"
+    },
+    {
+        "id": 2,
+        "code": "CUST-002",
+        "name": "Toko Berkah Utama",
+        "address": "Jl. Merdeka No. 12",
+        "phone": "8111222333",
+        "ktp": "3603009876543210"
+    },
+    {
+        "id": 3,
+        "code": "CUST-003",
+        "name": "Toko Rejeki Jaya",
+        "address": "Jl. Sudirman No. 45",
+        "phone": "8222333444",
+        "ktp": "3603005554443322"
+    },
+    {
+        "id": 4,
+        "code": "CUST-004",
+        "name": "Ujang",
+        "address": "-",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 5,
+        "code": "CUST-005",
+        "name": "toko berkah niam",
+        "address": "cilongok",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 6,
+        "code": "CUST-006",
+        "name": "toko madura restu ibu",
+        "address": "bunder",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 7,
+        "code": "CUST-007",
+        "name": "toko adi depan duren",
+        "address": "kedaton",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 8,
+        "code": "CUST-008",
+        "name": "toko yulianto",
+        "address": "pasir awi",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 9,
+        "code": "CUST-009",
+        "name": "toko bintang abadi",
+        "address": "cikupa",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 10,
+        "code": "CUST-010",
+        "name": "toko ulfa",
+        "address": "kedaton\/ kendal",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 11,
+        "code": "CUST-011",
+        "name": "toko anugrah siti",
+        "address": "bukit tiara",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 12,
+        "code": "CUST-012",
+        "name": "toko madura pojokan",
+        "address": "bunder",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 13,
+        "code": "CUST-013",
+        "name": "toko damar",
+        "address": "bukit tiara",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 14,
+        "code": "CUST-014",
+        "name": "toko wawan bakso",
+        "address": "gebang",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 15,
+        "code": "CUST-015",
+        "name": "toko rahma 2",
+        "address": "bukit tiara",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 16,
+        "code": "CUST-016",
+        "name": "toko cakra",
+        "address": "cikupa",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 17,
+        "code": "CUST-017",
+        "name": "toko warung daffa",
+        "address": "gandu",
+        "phone": "087846254250",
+        "ktp": "-"
+    },
+    {
+        "id": 18,
+        "code": "CUST-018",
+        "name": "toko mca",
+        "address": "bunder",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 19,
+        "code": "CUST-019",
+        "name": "toko andi puri",
+        "address": "puri",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 20,
+        "code": "CUST-020",
+        "name": "toko dani",
+        "address": "cilongok",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 21,
+        "code": "CUST-021",
+        "name": "toko aziz pom",
+        "address": "terep",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 22,
+        "code": "CUST-022",
+        "name": "toko madura restu ibu",
+        "address": "bunder",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 23,
+        "code": "CUST-023",
+        "name": "toko nasut 2",
+        "address": "taman walet",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 24,
+        "code": "CUST-024",
+        "name": "bapak",
+        "address": "pasar kemis",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 25,
+        "code": "CUST-025",
+        "name": "dua putra",
+        "address": "bumi indah",
+        "phone": "087872791230",
+        "ktp": "-"
+    },
+    {
+        "id": 26,
+        "code": "CUST-026",
+        "name": "acong aqua",
+        "address": "par kemis",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 27,
+        "code": "CUST-027",
+        "name": "toko jelita",
+        "address": "batavia",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 28,
+        "code": "CUST-028",
+        "name": "toko zakera",
+        "address": "cni \/ terep",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 29,
+        "code": "CUST-029",
+        "name": "toko uwen\/iyan",
+        "address": "pasir gadung",
+        "phone": "0",
+        "ktp": "-"
+    },
+    {
+        "id": 30,
+        "code": "CUST-030",
+        "name": "toko madurasa",
+        "address": "bunder",
+        "phone": "0",
+        "ktp": "-"
+    }
+]

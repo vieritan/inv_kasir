@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "code": "CUST-001",
+        "name": "1 thr \/ paskem",
+        "address": "Jl. Pasarkemis No. 12",
+        "phone": "08123456789",
+        "ktp": "3603001234567890"
+    },
+    {
+        "id": 2,
+        "code": "CUST-002",
+        "name": "Toko Berkah Utama",
+        "address": "Jl. Merdeka No. 12",
+        "phone": "08111222333",
+        "ktp": "3603009876543210"
+    },
+    {
+        "id": 3,
+        "code": "CUST-003",
+        "name": "Toko Rejeki Jaya",
+        "address": "Jl. Sudirman No. 45",
+        "phone": "08222333444",
+        "ktp": "3603005554443322"
+    }
+]

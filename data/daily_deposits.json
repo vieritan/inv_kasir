@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "deposit_date": "2026-08-17",
+        "cash_amount": 0,
+        "transfer_amount": 231000,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023982 - Transfer Bank)"
+    },
+    {
+        "id": 2,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 116400,
+        "transfer_amount": 0,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023984 - Tunai (Cash))"
+    },
+    {
+        "id": 3,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 116400,
+        "transfer_amount": 0,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023984 - Tunai (Cash))"
+    },
+    {
+        "id": 4,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 116400,
+        "transfer_amount": 0,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023984 - Tunai (Cash))"
+    },
+    {
+        "id": 5,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 156400,
+        "transfer_amount": 0,
+        "notes": "Pelunasan Hutang Toko Rejeki Jaya (Faktur #00000023985 - Tunai (Cash))"
+    },
+    {
+        "id": 6,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 152800,
+        "transfer_amount": 0,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023989 - Tunai (Cash))"
+    },
+    {
+        "id": 7,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 0,
+        "transfer_amount": 261000,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023990 - Transfer Bank)"
+    },
+    {
+        "id": 8,
+        "deposit_date": "2026-08-20",
+        "cash_amount": 0,
+        "transfer_amount": 116400,
+        "notes": "Pelunasan Hutang Ujang (Faktur #00000023991 - Transfer Bank)"
+    }
+]

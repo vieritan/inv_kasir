@@ -1,0 +1,2902 @@
+[
+    {
+        "id": 120,
+        "invoice_no": "00000024050",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 1,
+        "customer_name": "1 thr \/ paskem",
+        "total_dus": 9,
+        "total_bonus": 0,
+        "total_amount": 258000,
+        "is_return": 0,
+        "is_cash": 0,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Aqua 220ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 10000,
+                "discount": 0,
+                "subtotal": 20000,
+                "item_name": "Aqua 330ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            }
+        ],
+        "created_at": "2026-10-08T12:19:27.674891+00:00"
+    },
+    {
+        "id": 119,
+        "invoice_no": "00000024049",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 1,
+        "customer_name": "1 thr \/ paskem",
+        "total_dus": 6,
+        "total_bonus": 0,
+        "total_amount": 168000,
+        "is_return": 0,
+        "is_cash": 0,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Aqua 220ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 10000,
+                "discount": 0,
+                "subtotal": 20000,
+                "item_name": "Aqua 330ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            }
+        ],
+        "created_at": "2026-10-08T12:16:22.997267+00:00"
+    },
+    {
+        "id": 118,
+        "invoice_no": "00000024048",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 24,
+        "customer_name": "bapak",
+        "total_dus": 3,
+        "total_bonus": 0,
+        "total_amount": 136000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 44000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 41000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T09:46:43.545589+00:00"
+    },
+    {
+        "id": 117,
+        "invoice_no": "00000024047",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 20,
+        "customer_name": "toko dani",
+        "total_dus": 10,
+        "total_bonus": 0,
+        "total_amount": 195000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 195000,
+                "item_name": "Ale-Ale"
+            }
+        ],
+        "created_at": "2026-10-08T08:52:53.4162+00:00"
+    },
+    {
+        "id": 116,
+        "invoice_no": "00000024046",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 24,
+        "customer_name": "bapak",
+        "total_dus": 2,
+        "total_bonus": 0,
+        "total_amount": 38000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 38000,
+                "item_name": "Aquviva 250 Ml"
+            }
+        ],
+        "created_at": "2026-10-08T07:49:07.887826+00:00"
+    },
+    {
+        "id": 115,
+        "invoice_no": "00000024045",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 24,
+        "customer_name": "bapak",
+        "total_dus": 35,
+        "total_bonus": 0,
+        "total_amount": 888000,
+        "is_return": 1,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 44000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 44000,
+                "item_name": "Aqua 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Aqua 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 19500,
+                "item_name": "Ale-Ale",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 45000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 135000,
+                "item_name": "Lemineral 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 52000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 104000,
+                "item_name": "Lemineral 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 16000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 32000,
+                "item_name": "Mount Top 220ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 18500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 111000,
+                "item_name": "Sanqua Gelas 220ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 30000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 180000,
+                "item_name": "Sanqua 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 31500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 31500,
+                "item_name": "Sanqua 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 12,
+                "bonus": 0,
+                "price": 15000,
+                "retur": 1,
+                "discount": 0,
+                "subtotal": 180000,
+                "item_name": "By Top 200 Ml",
+                "retur_bonus": 0
+            }
+        ],
+        "created_at": "2026-10-08T07:34:59.509353+00:00"
+    },
+    {
+        "id": 114,
+        "invoice_no": "00000024044",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 20,
+        "customer_name": "toko dani",
+        "total_dus": 67,
+        "total_bonus": 0,
+        "total_amount": 1984500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Floridina"
+            },
+            {
+                "qty": 7,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 241500,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 28500,
+                "discount": 0,
+                "subtotal": 28500,
+                "item_name": "Isoplus 350ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 40000,
+                "discount": 0,
+                "subtotal": 40000,
+                "item_name": "Cocacola 390ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 40000,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Sprite 390ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 66000,
+                "discount": 0,
+                "subtotal": 330000,
+                "item_name": "Nutriboost"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 52000,
+                "discount": 0,
+                "subtotal": 104000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Mizone"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 37500,
+                "discount": 0,
+                "subtotal": 75000,
+                "item_name": "Okky Jelly Big"
+            },
+            {
+                "qty": 15,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 292500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 157500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 190000,
+                "item_name": "Teh Gelas"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Kopi Nongkrong"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 46000,
+                "discount": 0,
+                "subtotal": 46000,
+                "item_name": "Fruitea"
+            }
+        ],
+        "created_at": "2026-10-08T07:19:35.801385+00:00"
+    },
+    {
+        "id": 113,
+        "invoice_no": "00000024043",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 30,
+        "customer_name": "toko madurasa",
+        "total_dus": 45,
+        "total_bonus": 0,
+        "total_amount": 1257000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 57000,
+                "item_name": "Teh Rio"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 90000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 52000,
+                "discount": 0,
+                "subtotal": 156000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 20000,
+                "discount": 0,
+                "subtotal": 40000,
+                "item_name": "Okky Jelly"
+            },
+            {
+                "qty": 7,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 136500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 8,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 148000,
+                "item_name": "Sanqua Gelas 220ml"
+            },
+            {
+                "qty": 7,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 210000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 63000,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 57000,
+                "item_name": "Teh Gelas"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Kopi Nongkrong"
+            }
+        ],
+        "created_at": "2026-10-08T06:58:07.547993+00:00"
+    },
+    {
+        "id": 112,
+        "invoice_no": "00000024042",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 29,
+        "customer_name": "toko uwen\/iyan",
+        "total_dus": 9,
+        "total_bonus": 0,
+        "total_amount": 430000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 37000,
+                "discount": 0,
+                "subtotal": 111000,
+                "item_name": "Lemineral 330ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 250000,
+                "item_name": "Teh Pucuk 350ml"
+            }
+        ],
+        "created_at": "2026-10-08T06:27:08.412101+00:00"
+    },
+    {
+        "id": 111,
+        "invoice_no": "00000024041",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 28,
+        "customer_name": "toko zakera",
+        "total_dus": 39,
+        "total_bonus": 0,
+        "total_amount": 1621500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 510000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 40000,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Cocacola 390ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 225000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 52000,
+                "discount": 0,
+                "subtotal": 312000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 126000,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 123000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T06:10:54.716656+00:00"
+    },
+    {
+        "id": 110,
+        "invoice_no": "00000024040",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 27,
+        "customer_name": "toko jelita",
+        "total_dus": 28,
+        "total_bonus": 0,
+        "total_amount": 1176000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 103500,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 172500,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 20,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 900000,
+                "item_name": "Lemineral 600ml"
+            }
+        ],
+        "created_at": "2026-10-08T06:08:48.975842+00:00"
+    },
+    {
+        "id": 109,
+        "invoice_no": "00000024039",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 26,
+        "customer_name": "acong aqua",
+        "total_dus": 13,
+        "total_bonus": 0,
+        "total_amount": 656500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 13,
+                "bonus": 0,
+                "price": 50500,
+                "discount": 0,
+                "subtotal": 656500,
+                "item_name": "Aqua 1500ml"
+            }
+        ],
+        "created_at": "2026-10-08T06:02:51.527789+00:00"
+    },
+    {
+        "id": 108,
+        "invoice_no": "00000024038",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 25,
+        "customer_name": "dua putra",
+        "total_dus": 86,
+        "total_bonus": 0,
+        "total_amount": 3049000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 264000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 8,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 408000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 207000,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 345000,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 40000,
+                "discount": 0,
+                "subtotal": 200000,
+                "item_name": "Fanta 390ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 40000,
+                "discount": 0,
+                "subtotal": 120000,
+                "item_name": "Sprite 390ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 270000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 52000,
+                "discount": 0,
+                "subtotal": 312000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 20000,
+                "discount": 0,
+                "subtotal": 100000,
+                "item_name": "Okky Jelly"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Sari Kelapa"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 180000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 189000,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Kopi Nongkrong"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 164000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T06:01:33.327669+00:00"
+    },
+    {
+        "id": 107,
+        "invoice_no": "00000024037",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 24,
+        "customer_name": "bapak",
+        "total_dus": 8,
+        "total_bonus": 0,
+        "total_amount": 267000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 45000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 45000,
+                "discount": 0,
+                "subtotal": 45000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 52000,
+                "discount": 0,
+                "subtotal": 52000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 74000,
+                "item_name": "Sanqua Gelas 220ml"
+            }
+        ],
+        "created_at": "2026-10-08T05:56:17.923687+00:00"
+    },
+    {
+        "id": 106,
+        "invoice_no": "00000024036",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 23,
+        "customer_name": "toko nasut 2",
+        "total_dus": 16,
+        "total_bonus": 0,
+        "total_amount": 536000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 78000,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 176000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 204000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 78000,
+                "item_name": "Panther"
+            }
+        ],
+        "created_at": "2026-10-08T05:17:53.751186+00:00"
+    },
+    {
+        "id": 105,
+        "invoice_no": "00000024035",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 22,
+        "customer_name": "toko madura restu ibu",
+        "total_dus": 33,
+        "total_bonus": 0,
+        "total_amount": 1044000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 176000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 204000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 96000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 189000,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 62500,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Power F"
+            }
+        ],
+        "created_at": "2026-10-08T05:15:31.001535+00:00"
+    },
+    {
+        "id": 104,
+        "invoice_no": "00000024034",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 21,
+        "customer_name": "toko aziz pom",
+        "total_dus": 20,
+        "total_bonus": 0,
+        "total_amount": 641500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 63000,
+                "item_name": "Sanqua 1500ml"
+            }
+        ],
+        "created_at": "2026-10-08T05:14:00.291469+00:00"
+    },
+    {
+        "id": 103,
+        "invoice_no": "00000024032",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 20,
+        "customer_name": "toko dani",
+        "total_dus": 40,
+        "total_bonus": 0,
+        "total_amount": 847500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Rio"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 37000,
+                "discount": 0,
+                "subtotal": 185000,
+                "item_name": "Lemineral 330ml"
+            },
+            {
+                "qty": 20,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 320000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Power F"
+            }
+        ],
+        "created_at": "2026-10-08T05:10:30.981478+00:00"
+    },
+    {
+        "id": 102,
+        "invoice_no": "00000024031",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 19,
+        "customer_name": "toko andi puri",
+        "total_dus": 17,
+        "total_bonus": 0,
+        "total_amount": 456000,
+        "is_return": 1,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 34500,
+                "retur": 1,
+                "discount": 0,
+                "subtotal": 34500,
+                "item_name": "Milku",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 44000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 44000,
+                "item_name": "Lemineral 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Lemineral 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 16000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 64000,
+                "item_name": "Mount Top 220ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Panther",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Sanqua 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 57000,
+                "item_name": "Teh Gelas",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 46000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 46000,
+                "item_name": "Sosro Pet 350ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 41000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 41000,
+                "item_name": "Nipis Madu",
+                "retur_bonus": 0
+            }
+        ],
+        "created_at": "2026-10-08T05:09:23.069311+00:00"
+    },
+    {
+        "id": 101,
+        "invoice_no": "00000024030",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 18,
+        "customer_name": "toko mca",
+        "total_dus": 27,
+        "total_bonus": 0,
+        "total_amount": 983000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 37000,
+                "item_name": "Sanqua Gelas 220ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 120000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 94500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 62500,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 15000,
+                "discount": 0,
+                "subtotal": 45000,
+                "item_name": "By Top 200 Ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 46000,
+                "discount": 0,
+                "subtotal": 92000,
+                "item_name": "Sosro Pet 350ml"
+            }
+        ],
+        "created_at": "2026-10-08T05:07:28.434769+00:00"
+    },
+    {
+        "id": 100,
+        "invoice_no": "00000024028",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 17,
+        "customer_name": "toko warung daffa",
+        "total_dus": 80,
+        "total_bonus": 0,
+        "total_amount": 2318000,
+        "is_return": 1,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 44000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 220000,
+                "item_name": "Aqua 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 51000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 255000,
+                "item_name": "Aqua 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 5,
+                "discount": 0,
+                "subtotal": 195000,
+                "item_name": "Ale-Ale",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 34500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 103500,
+                "item_name": "Golda Coffee",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 190000,
+                "item_name": "Teh Rio",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 40000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Sprite 390ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 66000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Nutriboost",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 44000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 220000,
+                "item_name": "Lemineral 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 16000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 160000,
+                "item_name": "Mount Top 220ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 20000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 100000,
+                "item_name": "Okky Jelly",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 195000,
+                "item_name": "Panther",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 62500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 187500,
+                "item_name": "Teh Pucuk 350ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Gelas",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 37000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 185000,
+                "item_name": "Kopikap Jumbo",
+                "retur_bonus": 0
+            }
+        ],
+        "created_at": "2026-10-08T04:56:17.646636+00:00"
+    },
+    {
+        "id": 99,
+        "invoice_no": "00000024027",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 16,
+        "customer_name": "toko cakra",
+        "total_dus": 66,
+        "total_bonus": 0,
+        "total_amount": 2374500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 264000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 510000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Floridina"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 220000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 8,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 408000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Mizone"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 20000,
+                "discount": 0,
+                "subtotal": 100000,
+                "item_name": "Okky Jelly"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 125000,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Gelas"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 15000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "By Top 200 Ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 46000,
+                "discount": 0,
+                "subtotal": 92000,
+                "item_name": "Sosro Pet 350ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 82000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T04:51:31.252723+00:00"
+    },
+    {
+        "id": 98,
+        "invoice_no": "00000024026",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 15,
+        "customer_name": "toko rahma 2",
+        "total_dus": 37,
+        "total_bonus": 0,
+        "total_amount": 1073000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 76000,
+                "item_name": "Teh Rio"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 96000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 20000,
+                "discount": 0,
+                "subtotal": 60000,
+                "item_name": "Okky Jelly"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 78000,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 189000,
+                "item_name": "Sanqua 1500ml"
+            }
+        ],
+        "created_at": "2026-10-08T04:46:49.811991+00:00"
+    },
+    {
+        "id": 97,
+        "invoice_no": "00000024025",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 14,
+        "customer_name": "toko wawan bakso",
+        "total_dus": 19,
+        "total_bonus": 0,
+        "total_amount": 655000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 220000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 94500,
+                "item_name": "Sanqua 1500ml"
+            }
+        ],
+        "created_at": "2026-10-08T04:44:02.419778+00:00"
+    },
+    {
+        "id": 96,
+        "invoice_no": "00000024024",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 13,
+        "customer_name": "toko damar",
+        "total_dus": 42,
+        "total_bonus": 0,
+        "total_amount": 1427500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 255000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 78000,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 204000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 8,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 156000,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 120000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 157500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 125000,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 38000,
+                "item_name": "Teh Gelas"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 15000,
+                "discount": 0,
+                "subtotal": 30000,
+                "item_name": "By Top 200 Ml"
+            }
+        ],
+        "created_at": "2026-10-08T04:42:13.077547+00:00"
+    },
+    {
+        "id": 95,
+        "invoice_no": "00000024023",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 12,
+        "customer_name": "toko madura pojokan",
+        "total_dus": 29,
+        "total_bonus": 0,
+        "total_amount": 1105500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 90000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 94500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 125000,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 15000,
+                "discount": 0,
+                "subtotal": 75000,
+                "item_name": "By Top 200 Ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 82000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T04:39:07.482848+00:00"
+    },
+    {
+        "id": 94,
+        "invoice_no": "00000024022",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 11,
+        "customer_name": "toko anugrah siti",
+        "total_dus": 44,
+        "total_bonus": 0,
+        "total_amount": 1459000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 6,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 264000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 7,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 308000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 204000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 8,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 128000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 7,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 210000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 126000,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Kopi Nongkrong"
+            }
+        ],
+        "created_at": "2026-10-08T04:35:53.686033+00:00"
+    },
+    {
+        "id": 93,
+        "invoice_no": "00000024021",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 10,
+        "customer_name": "ulfa",
+        "total_dus": 40,
+        "total_bonus": 0,
+        "total_amount": 1030000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 255000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 220000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 30,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 555000,
+                "item_name": "Sanqua Gelas 220ml"
+            }
+        ],
+        "created_at": "2026-10-08T04:32:35.138798+00:00"
+    },
+    {
+        "id": 92,
+        "invoice_no": "00000024020",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 9,
+        "customer_name": "toko bintang abadi",
+        "total_dus": 43,
+        "total_bonus": 0,
+        "total_amount": 1453000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 204000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 58500,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 88000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 255000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 16000,
+                "discount": 0,
+                "subtotal": 80000,
+                "item_name": "Mount Top 220ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 78000,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 92500,
+                "item_name": "Sanqua Gelas 220ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 90000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 157500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 187500,
+                "item_name": "Teh Pucuk 350ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 37000,
+                "discount": 0,
+                "subtotal": 74000,
+                "item_name": "Kopikap Jumbo"
+            }
+        ],
+        "created_at": "2026-10-08T04:29:23.142509+00:00"
+    },
+    {
+        "id": 91,
+        "invoice_no": "00000024019",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 8,
+        "customer_name": "toko yulianto",
+        "total_dus": 41,
+        "total_bonus": 0,
+        "total_amount": 1281500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 103500,
+                "item_name": "Golda Coffee"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 103500,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 132000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Mizone"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 37500,
+                "discount": 0,
+                "subtotal": 112500,
+                "item_name": "Okky Jelly Big"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 39000,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 300000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 94500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Gelas"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Power F"
+            }
+        ],
+        "created_at": "2026-10-08T04:25:09.03474+00:00"
+    },
+    {
+        "id": 90,
+        "invoice_no": "00000024018",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 7,
+        "customer_name": "toko adi depan duren",
+        "total_dus": 29,
+        "total_bonus": 0,
+        "total_amount": 678000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 153000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 25,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 462500,
+                "item_name": "Sanqua Gelas 220ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 62500,
+                "discount": 0,
+                "subtotal": 62500,
+                "item_name": "Teh Pucuk 350ml"
+            }
+        ],
+        "created_at": "2026-10-08T03:53:04.011822+00:00"
+    },
+    {
+        "id": 88,
+        "invoice_no": "00000024016",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "toko berkah niam",
+        "total_dus": 59,
+        "total_bonus": 0,
+        "total_amount": 1761000,
+        "is_return": 1,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 51000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 255000,
+                "item_name": "Aqua 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 195000,
+                "item_name": "Ale-Ale",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Golda Coffee",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 16000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 160000,
+                "item_name": "Mount Top 220ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 37500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 112500,
+                "item_name": "Okky Jelly Big",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "retur": 1,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Panther",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 31500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 157500,
+                "item_name": "Sanqua 1500ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 62500,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 312500,
+                "item_name": "Teh Pucuk 350ml",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Gelas",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 37000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 111000,
+                "item_name": "Kopikap Jumbo",
+                "retur_bonus": 0
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 46000,
+                "retur": 0,
+                "discount": 0,
+                "subtotal": 46000,
+                "item_name": "Sosro Pet 350ml",
+                "retur_bonus": 0
+            }
+        ],
+        "created_at": "2026-10-08T03:44:34.185191+00:00"
+    },
+    {
+        "id": 84,
+        "invoice_no": "00000024012",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "narsih",
+        "total_dus": 17,
+        "total_bonus": 0,
+        "total_amount": 423000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 44000,
+                "item_name": "Aqua 600ml"
+            },
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 102000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 19500,
+                "item_name": "Ale-Ale"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Mizone"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 19500,
+                "item_name": "Panther"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 37000,
+                "discount": 0,
+                "subtotal": 37000,
+                "item_name": "Kopikap Jumbo"
+            },
+            {
+                "qty": 10,
+                "bonus": 0,
+                "price": 15000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "By Top 200 Ml"
+            }
+        ],
+        "created_at": "2026-10-08T03:28:36.713629+00:00"
+    },
+    {
+        "id": 80,
+        "invoice_no": "00000024008",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "bapak",
+        "total_dus": 26,
+        "total_bonus": 0,
+        "total_amount": 613000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 37000,
+                "discount": 0,
+                "subtotal": 37000,
+                "item_name": "Lemineral 330ml"
+            },
+            {
+                "qty": 4,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 176000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 20,
+                "bonus": 0,
+                "price": 18500,
+                "discount": 0,
+                "subtotal": 370000,
+                "item_name": "Sanqua Gelas 220ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 30000,
+                "item_name": "Sanqua 600ml"
+            }
+        ],
+        "created_at": "2026-10-08T02:54:33.069702+00:00"
+    },
+    {
+        "id": 79,
+        "invoice_no": "00000024007",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "toko nabilah",
+        "total_dus": 110,
+        "total_bonus": 0,
+        "total_amount": 5365000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 50,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 2550000,
+                "item_name": "Aqua 1500ml"
+            },
+            {
+                "qty": 35,
+                "bonus": 0,
+                "price": 44000,
+                "discount": 0,
+                "subtotal": 1540000,
+                "item_name": "Lemineral 600ml"
+            },
+            {
+                "qty": 25,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 1275000,
+                "item_name": "Lemineral 1500ml"
+            }
+        ],
+        "created_at": "2026-10-08T02:52:12.140046+00:00"
+    },
+    {
+        "id": 78,
+        "invoice_no": "00000024006",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "toko aris 3 \/ umam",
+        "total_dus": 25,
+        "total_bonus": 0,
+        "total_amount": 626000,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 2,
+                "bonus": 0,
+                "price": 34500,
+                "discount": 0,
+                "subtotal": 69000,
+                "item_name": "Milku"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 95000,
+                "item_name": "Teh Rio"
+            },
+            {
+                "qty": 3,
+                "bonus": 0,
+                "price": 19000,
+                "discount": 0,
+                "subtotal": 57000,
+                "item_name": "Sari Kelapa"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 150000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 157500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 5,
+                "bonus": 0,
+                "price": 19500,
+                "discount": 0,
+                "subtotal": 97500,
+                "item_name": "Kopi Nongkrong"
+            }
+        ],
+        "created_at": "2026-10-08T02:47:20.977734+00:00"
+    },
+    {
+        "id": 76,
+        "invoice_no": "00000024004",
+        "invoice_date": "2026-10-08",
+        "sales_id": 0,
+        "sales_name": "Office",
+        "customer_id": 5,
+        "customer_name": "toko sinar madura",
+        "total_dus": 4,
+        "total_bonus": 0,
+        "total_amount": 153500,
+        "is_return": 0,
+        "is_cash": 1,
+        "notes": "Faktur Penjualan",
+        "items": [
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 51000,
+                "discount": 0,
+                "subtotal": 51000,
+                "item_name": "Lemineral 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 30000,
+                "discount": 0,
+                "subtotal": 30000,
+                "item_name": "Sanqua 600ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 31500,
+                "discount": 0,
+                "subtotal": 31500,
+                "item_name": "Sanqua 1500ml"
+            },
+            {
+                "qty": 1,
+                "bonus": 0,
+                "price": 41000,
+                "discount": 0,
+                "subtotal": 41000,
+                "item_name": "Nipis Madu"
+            }
+        ],
+        "created_at": "2026-10-08T02:38:50.766099+00:00"
+    }
+]

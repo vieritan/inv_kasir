@@ -1,0 +1,461 @@
+[
+    {
+        "id": 1,
+        "code": "BRG-001",
+        "name": "Aqua 220ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 25000,
+        "stock": 40
+    },
+    {
+        "id": 2,
+        "code": "BRG-002",
+        "name": "Aqua 330ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 30000,
+        "stock": 11
+    },
+    {
+        "id": 3,
+        "code": "BRG-003",
+        "name": "Aqua 600ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 10000,
+        "stock": 153
+    },
+    {
+        "id": 4,
+        "code": "BRG-004",
+        "name": "Aqua 1500ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 113
+    },
+    {
+        "id": 5,
+        "code": "BRG-005",
+        "name": "Ale-Ale",
+        "unit": "Dus",
+        "cost_price": 15470,
+        "sell_price": 18200,
+        "stock": 127
+    },
+    {
+        "id": 6,
+        "code": "BRG-006",
+        "name": "Floridina",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 88
+    },
+    {
+        "id": 7,
+        "code": "BRG-007",
+        "name": "Golda Coffee",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 415
+    },
+    {
+        "id": 8,
+        "code": "BRG-008",
+        "name": "Milku",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 190
+    },
+    {
+        "id": 9,
+        "code": "BRG-009",
+        "name": "Teh Rio",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 1837
+    },
+    {
+        "id": 10,
+        "code": "BRG-010",
+        "name": "Isoplus 350ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 78
+    },
+    {
+        "id": 11,
+        "code": "BRG-011",
+        "name": "Cocacola 390ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 12,
+        "code": "BRG-012",
+        "name": "Fanta 390ml",
+        "unit": "Dus",
+        "cost_price": 36550,
+        "sell_price": 43000,
+        "stock": 70
+    },
+    {
+        "id": 13,
+        "code": "BRG-013",
+        "name": "Sprite 390ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 115
+    },
+    {
+        "id": 14,
+        "code": "BRG-014",
+        "name": "Nutriboost",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 12
+    },
+    {
+        "id": 15,
+        "code": "BRG-015",
+        "name": "Pulpi Botol",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 16,
+        "code": "BRG-016",
+        "name": "Cincau",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 17,
+        "code": "BRG-017",
+        "name": "Lemineral 330ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 18,
+        "code": "BRG-018",
+        "name": "Lemineral 600ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 115
+    },
+    {
+        "id": 19,
+        "code": "BRG-019",
+        "name": "Lemineral 1500ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 92
+    },
+    {
+        "id": 20,
+        "code": "BRG-020",
+        "name": "Mizone",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 262
+    },
+    {
+        "id": 21,
+        "code": "BRG-021",
+        "name": "Mount Top 220ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 285
+    },
+    {
+        "id": 22,
+        "code": "BRG-022",
+        "name": "Okky Jelly",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 58
+    },
+    {
+        "id": 23,
+        "code": "BRG-023",
+        "name": "Okky Jelly Big",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 145
+    },
+    {
+        "id": 24,
+        "code": "BRG-024",
+        "name": "Panther",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 377
+    },
+    {
+        "id": 25,
+        "code": "BRG-025",
+        "name": "Sari Kelapa",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 81
+    },
+    {
+        "id": 26,
+        "code": "BRG-026",
+        "name": "Sanqua Gelas 220ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 67
+    },
+    {
+        "id": 27,
+        "code": "BRG-027",
+        "name": "Sanqua 600ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 264
+    },
+    {
+        "id": 28,
+        "code": "BRG-028",
+        "name": "Sanqua 1500ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 167
+    },
+    {
+        "id": 29,
+        "code": "BRG-029",
+        "name": "Sanqua Botol 220ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 49
+    },
+    {
+        "id": 30,
+        "code": "BRG-030",
+        "name": "Teh Pucuk 350ml",
+        "unit": "Dus",
+        "cost_price": 47600,
+        "sell_price": 56000,
+        "stock": 123
+    },
+    {
+        "id": 31,
+        "code": "BRG-031",
+        "name": "Teh Gelas",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 156
+    },
+    {
+        "id": 32,
+        "code": "BRG-032",
+        "name": "Kopikap",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 33,
+        "code": "BRG-033",
+        "name": "Kopi Robust",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 106
+    },
+    {
+        "id": 34,
+        "code": "BRG-034",
+        "name": "Kopi Nongkrong",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 35,
+        "code": "BRG-035",
+        "name": "Kopikap Jumbo",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 48
+    },
+    {
+        "id": 36,
+        "code": "BRG-036",
+        "name": "By Top 200 Ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 37,
+        "code": "BRG-037",
+        "name": "By Top 600 Ml",
+        "unit": "Dus",
+        "cost_price": 14301.25,
+        "sell_price": 16825,
+        "stock": 3
+    },
+    {
+        "id": 38,
+        "code": "BRG-038",
+        "name": "Asem Jawa",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 14
+    },
+    {
+        "id": 39,
+        "code": "BRG-039",
+        "name": "Nipis Gelas",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 67
+    },
+    {
+        "id": 40,
+        "code": "BRG-040",
+        "name": "Sosro Pet 350ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 47
+    },
+    {
+        "id": 41,
+        "code": "BRG-041",
+        "name": "Fruitea",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 26
+    },
+    {
+        "id": 42,
+        "code": "BRG-042",
+        "name": "Olala",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 43,
+        "code": "BRG-043",
+        "name": "Power F",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 41
+    },
+    {
+        "id": 44,
+        "code": "BRG-044",
+        "name": "Javana",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 45,
+        "code": "BRG-045",
+        "name": "Le Min Galon",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 46,
+        "code": "BRG-046",
+        "name": "Nipis Madu",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 24
+    },
+    {
+        "id": 47,
+        "code": "BRG-047",
+        "name": "Aquviva 250 Ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 48,
+        "code": "BRG-048",
+        "name": "Aquviva 700 Ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 49,
+        "code": "BRG-049",
+        "name": "Aquviva 1600ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 50,
+        "code": "BRG-050",
+        "name": "Vit 550ml",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    },
+    {
+        "id": 51,
+        "code": "BRG-051",
+        "name": "Vit 1500",
+        "unit": "Dus",
+        "cost_price": 0,
+        "sell_price": 0,
+        "stock": 0
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "key": "main_settings",
+        "value": {
+            "company_name": "KAYOLA JAYA",
+            "default_date": "2026-07-23",
+            "company_phone": "Telp. 081806366565",
+            "auto_today_date": 1,
+            "company_address": "Jl. Raya Pasar Kemis",
+            "default_payment": "CASH",
+            "default_hormat_kami": "kayola",
+            "last_invoice_number": 24048
+        }
+    }
+]

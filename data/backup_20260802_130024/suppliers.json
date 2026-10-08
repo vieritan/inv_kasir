@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "code": "00000043",
+        "name": "Coca Cola",
+        "address": "Jakarta",
+        "phone": "021-111111"
+    },
+    {
+        "id": 2,
+        "code": "00000047",
+        "name": "Edi Jaya",
+        "address": "Tangerang",
+        "phone": "021-222222"
+    },
+    {
+        "id": 3,
+        "code": "00000040",
+        "name": "Glory Jaya",
+        "address": "Jakarta",
+        "phone": "021-333333"
+    },
+    {
+        "id": 4,
+        "code": "00000048",
+        "name": "Kevin Sumber Air",
+        "address": "Bekasi",
+        "phone": "021-444444"
+    },
+    {
+        "id": 5,
+        "code": "00000045",
+        "name": "Laris Jaya",
+        "address": "Bogor",
+        "phone": "021-555555"
+    },
+    {
+        "id": 6,
+        "code": "00000046",
+        "name": "Mayora",
+        "address": "Tangerang",
+        "phone": "021-666666"
+    },
+    {
+        "id": 7,
+        "code": "00000042",
+        "name": "Neglasari",
+        "address": "Tangerang",
+        "phone": "021-777777"
+    },
+    {
+        "id": 8,
+        "code": "00000051",
+        "name": "Ronald",
+        "address": "Jakarta",
+        "phone": "021-888888"
+    },
+    {
+        "id": 9,
+        "code": "00000050",
+        "name": "Sosro",
+        "address": "Jakarta",
+        "phone": "021-999999"
+    },
+    {
+        "id": 10,
+        "code": "00000049",
+        "name": "Tiga Sodara",
+        "address": "Serang",
+        "phone": "021-000000"
+    },
+    {
+        "id": 11,
+        "code": "00000044",
+        "name": "Wings Foods ( Ale Rio )",
+        "address": "Jakarta",
+        "phone": "021-123123"
+    }
+]
